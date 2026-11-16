@@ -1,5 +1,3 @@
-> **This project has moved to [testomut/playwright](https://github.com/testomut/playwright/tree/main/python/python-playwright-qa-framework)**, together with its full history. This repository is archived and kept read-only so existing links keep working.
-
 # Python Playwright QA Framework
 
 A Python automation portfolio sample for a **fictional CRM / messaging application**.
